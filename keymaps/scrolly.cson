@@ -1,0 +1,3 @@
+'.workspace .editor:not(.mini)':
+  'alt-up': 'scrolly:up'
+  'alt-down': 'scrolly:down'

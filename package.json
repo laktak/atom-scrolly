@@ -1,0 +1,14 @@
+{
+  "name": "scrolly",
+  "main": "./lib/scrolly",
+  "version": "0.1.0",
+  "description": "Scrolly let's you scroll up and down while keeping the cursor on the same line (mousewheel scrolling with the keyboard).",
+  "activationEvents": ["scrolly:up", "scrolly:down"],
+  "repository": "https://github.com/laktak/atom-scrolly",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.100.0"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/laktak/atom-scrolly"
+}
