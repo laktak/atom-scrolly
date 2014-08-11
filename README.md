@@ -13,7 +13,12 @@ apm install scrolly
 ```
 or find it in the Packages tab under settings
 
-## Usage
+## Usage Mac
 
 - `alt-up` scroll up one line
 - `alt-down` scroll down one line
+
+## Usage Linux/Windows
+
+- `ctrl-up` scroll up one line
+- `ctrl-down` scroll down one line
