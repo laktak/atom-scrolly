@@ -1,7 +1,11 @@
 '.platform-darwin .workspace .editor:not(.mini)':
   'alt-up': 'scrolly:up'
   'alt-down': 'scrolly:down'
+  'alt-left': 'scrolly:left'
+  'alt-right': 'scrolly:right'
 
 '.platform-linux .workspace .editor:not(.mini), .platform-win32 .workspace .editor:not(.mini)':
-  'ctrl-up': 'scrolly:up'
-  'ctrl-down': 'scrolly:down'
+  'alt-up': 'scrolly:up'
+  'alt-down': 'scrolly:down'
+  'alt-left': 'scrolly:left'
+  'alt-right': 'scrolly:right'
