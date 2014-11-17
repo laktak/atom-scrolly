@@ -22,3 +22,13 @@ or find it in the Packages tab under settings
 
 - `ctrl-up` scroll up one line
 - `ctrl-down` scroll down one line
+
+## Horizontal scrolling
+
+You can enable horizontal scrolling by assigning keys to your keymap:
+
+```
+'.workspace .editor:not(.mini)':
+  'alt-left': 'scrolly:left'
+  'alt-right': 'scrolly:right'
+```
