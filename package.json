@@ -1,7 +1,7 @@
 {
   "name": "scrolly",
   "main": "./lib/scrolly",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Scrolly let's you scroll up and down while keeping the cursor on the same line (mousewheel scrolling with the keyboard). This package is no longer maintained and looking for a new owner. If you'd like to take over please let me know!",
   "activationEvents": [
     "scrolly:left",
