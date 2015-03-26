@@ -2,6 +2,8 @@
 
 ![scrolly](https://raw.github.com/laktak/atom-scrolly/master/scrolly.gif)
 
+**This package is no longer maintained and looking for a new owner. If you'd like to take over please let me know**
+
 Scrolly let's you scroll up and down while keeping the cursor on the same line. This is great to get a quick look at the lines that are off screen without loosing your position.
 
 The functionality is basically the same as if you were using the mouse wheel.
